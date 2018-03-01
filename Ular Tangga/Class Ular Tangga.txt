@@ -1,0 +1,22 @@
+Class Map {
+int ukuran; // membuat ukuran map
+
+void tampilkanPlayer(); // menampilkan player yang bermain
+void tampilkanTangga(); // menampilkan posisi tangga
+void tampilkanUlar(); // menampilkan posisi ular
+}
+
+Class Permainan {
+int banyakPemain; // menentukan banyak pemain
+
+void permainan(); // permainan dimulai
+}
+
+Class Pemain() {
+string namaPemain; // menentukan nama pemain
+int urutanBermain; // menentukan urutan pemain
+
+void namaPemain(); // menampilkan nama pemain
+int rollDadu(); // pemain roll dadu
+int posisiPemain(); // menampilkan posisi pemain setelah roll dadu
+}
