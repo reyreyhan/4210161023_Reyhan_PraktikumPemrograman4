@@ -1,0 +1,23 @@
+﻿  Segitiga.cpp
+d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\segitiga.cpp(1): warning C4627: '#include "Segitiga.h"': skipped when looking for precompiled header use
+  d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\segitiga.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\segitiga.cpp(11): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Persegi.cpp
+d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\persegi.cpp(1): warning C4627: '#include "Persegi.h"': skipped when looking for precompiled header use
+  d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\persegi.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\persegi.cpp(11): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  ConsoleApplication2.cpp
+d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\consoleapplication2.cpp(4): warning C4627: '#include "Persegi.h"': skipped when looking for precompiled header use
+  d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\consoleapplication2.cpp(4): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\consoleapplication2.cpp(5): warning C4627: '#include "Segitiga.h"': skipped when looking for precompiled header use
+  d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\consoleapplication2.cpp(5): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\consoleapplication2.cpp(6): warning C4627: '#include "Bundar.h"': skipped when looking for precompiled header use
+  d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\consoleapplication2.cpp(6): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+  d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\consoleapplication2.cpp(24): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Bundar2.cpp
+d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\bundar2.cpp(1): warning C4627: '#include "Bundar.h"': skipped when looking for precompiled header use
+  d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\bundar2.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\kuliah\semester 4\pemrograman 4 (praktikum)\4. hitung luas\consoleapplication2\consoleapplication2\bundar2.cpp(11): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
